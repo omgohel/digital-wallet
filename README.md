@@ -2,6 +2,12 @@
 
 A full-stack application for managing personal finances with a beautiful UI, transaction tracking, and balance management.
 
+![Preview](https://github.com/user-attachments/assets/40d5e414-cdc5-4f82-a67a-3f085d3ecad3)
+
+![Preview](https://github.com/user-attachments/assets/0d73043a-e0e2-44b0-bfa4-6bc7b79ea1d7)
+
+![Preview](https://github.com/user-attachments/assets/88c699b2-ee42-4b6e-a5fc-2b18667f3603)
+
 ## 📋 Features
 
 - **User Authentication** - Create and manage your wallet profile
