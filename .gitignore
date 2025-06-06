@@ -1,0 +1,18 @@
+# .NET Core 
+**/bin/ 
+**/obj/ 
+**/*.user 
+**/.vs/ 
+**/[Dd]ebug/ 
+**/[Rr]elease/ 
+**/*.suo 
+**/*.cache 
+**/*.dll 
+**/*.exe 
+**/*.pdb 
+**/*.log 
+# React/Vite 
+frontend/node_modules/ 
+frontend/.env 
+frontend/dist 
+frontend/build 
